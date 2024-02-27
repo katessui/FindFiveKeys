@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SeventhLessonFindFiveKeys</string>
+    <string name="successfull_search_one"> Найден первый ключ </string>
+    <string name="successfull_search_two"> Найден второй ключ </string>
+    <string name="successfull_search_third"> Найден третий ключ </string>
+    <string name="successfull_search_four"> Найден четвертый ключ </string>
+    <string name="successfull_search_five"> Найден пятый ключ </string>
+</resources>
